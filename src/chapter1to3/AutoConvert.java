@@ -1,3 +1,4 @@
+package chapter1to3;
 public class AutoConvert {
     public static void main(String[] args){
         int a = 'a';

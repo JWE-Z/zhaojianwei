@@ -1,3 +1,4 @@
+package chapter1to3;
 public class FloatDetail {
     public static void main(String[] args){
         float num1 = 1.1f;

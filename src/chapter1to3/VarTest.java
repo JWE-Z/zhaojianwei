@@ -1,3 +1,4 @@
+package chapter1to3;
 public class VarTest {
     public static void main(String[] args){
 //   记录人的信息

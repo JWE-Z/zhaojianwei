@@ -4,7 +4,7 @@
  * @author JWE
  * @version 1.0
  */
-
+package chapter1to3;
 public class ChangeChar {
     public static void main(String[] args) {
 //      \t ：一个制表位，实现对齐的功能

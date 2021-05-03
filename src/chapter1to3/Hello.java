@@ -1,3 +1,4 @@
+package chapter1to3;
 public class Hello {  //hello 是一个public共有的类，{表示这个类的开始
 
     // 写一个mian方法
