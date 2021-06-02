@@ -1,4 +1,4 @@
-package chapter8;
+package chapter8.encapsulation_;
 
 public class Encapsulation01 {
     public static void main(String[] args) {
@@ -11,6 +11,7 @@ public class Encapsulation01 {
 
         Person smith = new Person("smith", 2000, 50000);
         System.out.println(smith.info());
+
 
     }
 }
